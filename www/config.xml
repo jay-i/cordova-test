@@ -3,17 +3,17 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.artschiz.puzzlegame"
+        id        = "com.john.sztech"
         version   = "1.0.0">
 
-    <name>ARTSCHIZ GAMES</name>
+    <name>MR BOSCO</name>
 
     <description>
-    WORD PUZZLE POLYGON GAME
+    GIT TEST APP
     </description>
 
     <author href="http://sztglobal.com" email="stivino1224@gmail.com">
-       ARTSCHIZ GAMES
+       JOHN ULOKO
     </author>
 
     <!-- Define the main entry-point to the application -->
@@ -24,7 +24,7 @@
     <!-- android: MIN SDK version supported on the target device. MAX version is blank by default. -->
     <preference name="android-minSdkVersion"      value="14" />
     <preference name="AndroidPersistentFileLocation" value="Compatibility" />
-    <preference name="fullscreen" value="true" /> 
+    <preference name="fullscreen" value="false" /> 
     <preference name="KeepRunning" value="true"/>
     <preference name="ShowTitle" value="false"/>
     <preference name="LoadingDialog" value="Wait,Loading..."/> 
